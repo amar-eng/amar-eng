@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... amar-moh.com
-- ⚡ Fun fact: ... I like pinapples on my pizza
+- ⚡ Fun fact: ... I love pinapples on my pizza!
 -->
